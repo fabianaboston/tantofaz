@@ -1,0 +1,18 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 156: end of line expected.
+    jump voce venceu
+              ^
+
+File "game/script.rpy", line 171: end of line expected.
+    jump voce venceu
+              ^
+
+File "game/script.rpy", line 185: end of line expected.
+    jump voce venceu
+              ^
+
+Ren'Py Version: Ren'Py 8.3.3.24092903+nightly
+Thu Oct  3 07:55:00 2024
